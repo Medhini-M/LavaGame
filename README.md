@@ -1,1 +1,1 @@
-This is a fun platformer game designed by Nikita, Ridhi and me as part of a school computer science project.
+This is a fun platformer game designed by Nikita, Ridhi and I as part of a school computer science project.
